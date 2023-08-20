@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PI RndRatio", "PI\PI RndRatio.csproj", "{2871A6D3-5D44-431B-A43B-B652019AECC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PI ExtenuaciónTrianguloRecursivo", "PI ExtenuaciónTrianguloRecursivo\PI ExtenuaciónTrianguloRecursivo.csproj", "{DED9FB11-DD07-4E5A-AF2C-E8AF85D66131}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2871A6D3-5D44-431B-A43B-B652019AECC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2871A6D3-5D44-431B-A43B-B652019AECC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2871A6D3-5D44-431B-A43B-B652019AECC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2871A6D3-5D44-431B-A43B-B652019AECC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DED9FB11-DD07-4E5A-AF2C-E8AF85D66131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED9FB11-DD07-4E5A-AF2C-E8AF85D66131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED9FB11-DD07-4E5A-AF2C-E8AF85D66131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED9FB11-DD07-4E5A-AF2C-E8AF85D66131}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF2737CA-F868-44A4-A2D7-291AF35523EC}
+	EndGlobalSection
+EndGlobal
